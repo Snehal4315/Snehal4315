@@ -10,7 +10,8 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snehal4315&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snehal4315&layout=compact)](https://github.com/Snehal4315/github-readme-stats)
+
 
 ---
 
