@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning machine learning.
-- 📫 How to reach me: snehalgamit3112@gmail.com
+- :email: How to reach me: snehalgamit3112@gmail.com
 
 ---
 
